@@ -1,2 +1,2 @@
 # Thesis
-Work repository
+Collaborative repository
